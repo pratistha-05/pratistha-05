@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 <h1 align="center">
 <a href="https://www.linkedin.com/in/pratistha-sinha-9a83141b3/">
   <img alt="linkedIn" width="36px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
-<a href="https://instagram.com/_walinmoonlight">
+<a href="https://instagram.com/_walinmoonlight" width="36px">
 <img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
 <a href="https://medium.com/@pratistha_05">
 <img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
@@ -25,6 +25,7 @@ Here are some ideas to get you started:
   <img alt="Codechef" width="40px" src="https://cdn.codechef.com/sites/default/files/uploads/pictures/bdf71a95e637ef76e2e9c90c2c44a020.png" />
 </a>
 </h1>
+
  ## 🔭 I'm currently working on
 
 - My old projects
