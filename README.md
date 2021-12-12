@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/pratistha-sinha-9a83141b3/">
-<img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="LinkedIn"width="38px"/></a>
+  <img alt="linkedIn" width="38px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
 <a href="https://instagram.com/_walinmoonlight">
 <img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
 <a href="https://medium.com/@pratistha_05">
