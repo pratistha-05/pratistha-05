@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 ## 📈 GitHub Stats 
 
 [![Pratistha's github stats](https://github-readme-stats.vercel.app/api?username=pratistha-05)](https://github.com/pratistha-05)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratistha-05&layout=compact)](https://github.com/pratistha-05)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratistha-05&layout=compact)](https://github.com/pratistha-05)<br>
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=pratistha-05.pratistha-05)](https://www.yushi.dev/)
 
 
