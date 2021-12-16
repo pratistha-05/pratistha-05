@@ -1,4 +1,4 @@
-### Hi there 👋 I'm >Pratistha Sinha
+### Hi there 👋 I'm Pratistha Sinha
 
 - 👯 I’m looking to collaborate on some open source projects 
 - 💬 Ask me about life aspects
@@ -44,5 +44,11 @@ Here are some ideas to get you started:
 ## 📝 Latest Blog Posts
 -A complete guide to Firebase : https://medium.com/@pratistha_05/a-know-how-of-firebase-2e1c502d3ae8
 
+
+## 📈 GitHub Stats 
+
+[![Pratistha's github stats](https://github-readme-stats.vercel.app/api?username=pratistha-05)](https://github.com/pratistha-05)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratistha-05&layout=compact)](https://github.com/pratistha-05)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=pratistha-05.pratistha-05)](https://www.yushi.dev/)
 
 
