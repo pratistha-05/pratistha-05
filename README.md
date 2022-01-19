@@ -29,8 +29,8 @@ Here are some ideas to get you started:
  ## 🔭 I'm currently working on
 
 - My old projects
-- MERN stack project- Memories (React-Native)
-- Open-source projects(Working on it soon...)
+- MERN stack project- Memories
+- Open-source projects
 - Medium Blogs
 - Developer skills
 
