@@ -59,8 +59,6 @@
 <img height="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png"> 
 
 <img height="75" src="https://cdn.freebiesupply.com/logos/thumbs/2x/nodejs-1-logo.png">
-
-<img height="70" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg">
    
 <img height="75" src="https://icons.getbootstrap.com/assets/img/icons-hero.png">
    
@@ -73,19 +71,13 @@
 <img height="65" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png"> 
    
 <img height="80" src="https://brandslogos.com/wp-content/uploads/thumbs/java-logo-vector-1.svg"> 
-  
-<img height="67" src="https://www.kindpng.com/picc/m/188-1882416_flask-python-logo-hd-png-download.png">
- 
+   
 <img height="60" src="https://pngimg.com/uploads/mysql/mysql_PNG1.png">
   
 <img height="67" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png">
    
 <img height="67" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png">
-   
-<img height="67" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png">
-   
-<img height="67" src="https://raw.githubusercontent.com/Rohan-Shakya/Rohan-Shakya/master/images/next_logo.png">
-   
+         
 <img height="67" src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8">
 </p>
 
