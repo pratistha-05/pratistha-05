@@ -30,7 +30,7 @@
 
  ## 🔭 I'm currently working on
 
-- MERN stack projects
+- Android Development Projects
 - Freelancing
 - Open-Source Contribution
 - Medium Blogs
