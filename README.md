@@ -10,8 +10,6 @@
 <h1 align="center">
 <a href="https://www.linkedin.com/in/pratistha-sinha-9a83141b3/">
   <img alt="linkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
-<a href="https://www.instagram.com/_walkinmoonlight/" width="40px">
-<img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" alt="Yu Shi | Instagram" width="40px"/></a>
 <a href="https://medium.com/@pratistha_05">
 <img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="40px"/></a>
 <a href="https://leetcode.com/pratistha-05/">
